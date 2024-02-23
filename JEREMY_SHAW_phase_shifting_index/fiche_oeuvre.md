@@ -47,7 +47,7 @@ Les écrans son placéent du manière que si tu te retrouve devant la pièce et 
 
 ![photo](media/croquis_oeuvre.png)
 
-> Croquis de la piece
+> Croquis de la piece.
 
 ## Éléments nécessaires à la mise en exposition
 
@@ -61,12 +61,13 @@ Les élements nécessaires à la mise en exposition sont
 
 ![photo](media/composantes_oeuvre.jpeg)
 
-> Les Élements
+> Les Élements.
 
 ![photo](media/lumiere_projecteur.jpeg)
 
-> Les Élements
+> Les Élements.
 
 ## Expérience vécue
+J'ai trouvé l'expérience plutôt bizarre, car je ne suis pas habituer à voir des expositions d'arts. Je trouve que c'est plutôt créatif comment il a pu nous tromper et faire comme si les vidéo sont été prisent dans différentes années.
 
-![video](media/IMG_7262.mov)
+

@@ -70,4 +70,12 @@ Les élements nécessaires à la mise en exposition sont
 ## Expérience vécue
 J'ai trouvé l'expérience plutôt bizarre, car je ne suis pas habituer à voir des expositions d'arts. Je trouve que c'est plutôt créatif comment il a pu nous tromper et faire comme si les vidéo sont été prisent dans différentes années.
 
+![photo](media/image_expericence1.jpeg)
 
+![photo](media/image_expericence2.jpeg)
+
+![photo](media/image_expericence3.jpeg)
+
+## Aspect plu et non plu
+
+Ce qui ma plu est que c'était vraiment immersif d'une façons que je me sentait bizarre et que le son t'englobe. Les vidéos donnait des ambiances étranges. Ce qui ne ma pas plus est le fait que c'est quand même long. 

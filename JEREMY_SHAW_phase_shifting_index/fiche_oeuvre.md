@@ -22,3 +22,48 @@ Dans la salle de l'exposition, il se trouve 7 écrans qui comportent tous des vi
 
 ![photo](media/image_cartel.jpeg)
 
+> Image du Cartel.
+
+![photo](media/vue_oeuvre_123.jpeg)
+
+> Vue des écrans 1, 2 et 3.
+
+
+![photo](media/vue_oeuvre_4.jpeg)
+
+> Vue de l'écran 4.
+
+![photo](media/vue_oeuvre_5.jpeg)
+
+> Vue de l'écran 5.
+
+![photo](media/vue_oeuvre_6.jpeg)
+
+> Vue de l'écran 6.
+
+## Mise en espace
+
+Les écrans son placéent du manière que si tu te retrouve devant la pièce et au milieu, vous pouvez voir tous les écrans.
+
+![photo](media/croquis_oeuvre.png)
+
+> Croquis de la piece
+
+## Éléments nécessaires à la mise en exposition
+
+Les élements nécessaires à la mise en exposition sont
+
+- [ ] Les écrans
+- [ ] Les projecteurs
+- [ ] Les haut-parleurs
+- [ ] Les lumières
+- [ ] Les cables
+
+![photo](media/composantes_oeuvre.jpeg)
+
+> Les Élements
+
+![photo](media/lumiere_projecteur.jpeg)
+
+> Les Élements
+

@@ -1,6 +1,29 @@
 # Effet Papillon
 
-1.le titre de chacun des projets ainsi que ses créateurs et créatrices
+## Réalisateurs
+- [ ] Raphaël Dumont
+- [ ] Alexis Bolduc
+- [ ] William Morel
+- [ ] Alexia (Ryan) Papanikolaou
+- [ ] Viktor Zhuravlev
+- [ ] Jasmine Lapierre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2.le lien de chacun avec le thème Crescentia
 3.l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 5.le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)

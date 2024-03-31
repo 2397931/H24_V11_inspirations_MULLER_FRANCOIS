@@ -18,17 +18,15 @@ Le lien entre l'exposition "Effet Papillon" et le thème "Crescentia" est la cro
 Image
 source
 
+## Installation en cours
+
+Image
+source
+
+## Installation finale
+
+Image
+source
+
 ## Ressentit
-
-
-
-
-
-
-
-
-
-
-
-3.l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
-5.noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+Lors de ma participation à cette installation, je crois que je serai très attentive, car les actions que j'entreprendrai auront un impact sur le déroulement de l'expérience. Ayant peu de connaissances sur le cycle de vie d'un pommier, je suis déterminée à en apprendre davantage à travers cette expérience.

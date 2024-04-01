@@ -1,17 +1,34 @@
-# Kigo
+# KIGO
 
 Image
 
-# Réalisateur
+# RÉALISATEUR
+
+
+
+## LIEN AVEC LE THÈME CRESCENTIA
+
+
+
+## SCHÉMA DE L'INSTALLATION
+
+
+
+## INSTALLATION EN COURS
+
+
+
+## INSTALLATION FINALE
+
+
+
+## RESSENTIT
 
 - [ ] Érick Ouellette
 - [ ] William Rathier Mailly
 - [ ] Gabriel Clerval
 - [ ] Nicolas St-Martin
 - [ ] Antoine Dion
-
-##  
-
 
 2.le lien de chacun avec le thème Crescentia
 3.l'installation en cours dans les studios pour chacun des projets (photos à l'appui)

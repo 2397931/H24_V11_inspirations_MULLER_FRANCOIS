@@ -2,7 +2,7 @@
 
 Image
 
-# RÉALISATEUR
+# RÉALISATEURS
 - [ ] Raphaël Dumont
 - [ ] Alexis Bolduc
 - [ ] William Morel

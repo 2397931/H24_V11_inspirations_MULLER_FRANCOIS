@@ -3,26 +3,32 @@
 IMAGE
 
 # RÉALISATEURS
-
-
+- [ ] Jolyanne Desjardins
+- [ ] MaÏka Désy
+- [ ] Laurie Houde
+- [ ] Felix Testa Radovanovic
 
 ## LIEN AVEC LE THÈME CRESCENTIA
 
-
+Le lien entre l'exposition "Rhizomatique" et le thème "Crescentia" est la croissance. Rhizomatique est  
 
 ## SCHÉMA DE L'INSTALLATION
 
-
+Image
+source
 
 ## INSTALLATION EN COURS
 
-
+Image
+source
 
 ## INSTALLATION FINALE
 
-
+Image
+source
 
 ## RESSENTIT
+
 
 1.le titre de chacun des projets ainsi que ses créateurs et créatrices
 2.le lien de chacun avec le thème Crescentia

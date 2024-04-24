@@ -10,3 +10,5 @@ Durant la conférence, Jade a expliqué les différents cas possibles lorsque sa
 
 # Conclusion
 En conclusion, j'ai quand même aimé la conférence, car on a vraiment vu ce qui se passe en arrière-plan et ça pourrait être nous dans le futur.
+
+![photo](2024-04-24 10_29_49-Window.png)

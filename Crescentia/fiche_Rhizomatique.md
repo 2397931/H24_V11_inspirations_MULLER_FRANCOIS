@@ -30,7 +30,6 @@ source
 ## RESSENTIT
 Lors de cette exposition je crois que je vais être vraiment surprise, car je n'est jamais vu d'exposition de cette sorte ou il y a une toile qui peux détecter nos mains qui rentre en contacte avec celle-ci.
 
-2.le lien de chacun avec le thème Crescentia
+
 3.l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 5.le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
-6.noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification

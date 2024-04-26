@@ -1,6 +1,6 @@
 # KIGO
 
-Image
+![photo](media/kigo.png)
 
 # RÉALISATEURS
 - [ ] Érick Ouellette
@@ -14,13 +14,13 @@ Le lien entre l'exposition "Kigo" et le thème "Crescentia" est la croissance. D
 
 ## SCHÉMA DE L'INSTALLATION
 
-Image
-source
+![photo](media/schema_kigo.png)
 
-## INSTALLATION EN COURS
+## INSTALLATION
 
-Image
-source
+![photo](media/kigo_installation_actif.jpeg) ![photo](media/materiel_sous_table_canevas_cosmique.png)
+![photo](media/ordinateur_utiliser_kigo.jpeg) ![photo](media/projecteur_kigo.JPG) ![photo](media/tableau_score_kigo.jpeg)
+![photo](media/personnage_dans_installation_kigo.jpeg) ![photo](media/kinect_kigo.jpeg)
 
 ## RESSENTIT
 Je crois qu'en expérimentant cette installation, je vais être vraiment surprise. C'est impressionnant que des étudiants collégiaux soient capables de développer un jeu qui détecte nos mouvements.

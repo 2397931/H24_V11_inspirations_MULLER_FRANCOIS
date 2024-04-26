@@ -1,6 +1,7 @@
 # Canevas Cosmique
 
-image
+![photo](media/canevas_cosmique.png)
+
 
 ## Type d'exposition
 temporaire et intérieur
@@ -41,8 +42,8 @@ L'exposition était placer dans le mur de droite des que vous entrez dans le gra
 ## Composantes et techniques
 Pour cette installation les créateurs ont du connecter des fils pour le sons, pour charger leur ordinateur, etc. Ils ont aussi construit une table pour leur installation.
 
-
-
+![photo](media/materiel_sous_table_2_canevas_cosmique.JPG)  ![photo](media/materiel_sous_table_canevas_cosmique.png)
+![photo](media/vue_sous_table_materiel_canevas_cosmique.JPG)  ![photo](media/ordinateur_utiiliser_pour_intallation_canevas_cosmique.JPG)
 
 
 ## Expérience vécue
@@ -50,10 +51,4 @@ Lors de l'exposition, le visiteur doit intéragir avec les statues situés sur l
 
 ## Plus et pas plus
 Ce qui ma plus dans cette exposition et comment elle était original et qu'il y avait plusieurs façcons d'intéragir avec celle-ci. Rien ne ma pas plus!
-
-
-Description de l'oeuvre ou du dispositif + image et video
-Mise en espace + photo piece et croquis
-Composantes et techniques
-Éléments nécessaires à la mise en exposition
 

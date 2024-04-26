@@ -15,15 +15,9 @@ Le lien entre l'exposition "Effet Papillon" et le thème "Crescentia" est la cro
 
 ## SCHÉMA DE L'INSTALLATION
 
-Image
-source
+
 
 ## INSTALLATION EN COURS
-
-Image
-source
-
-## INSTALLATION FINALE
 
 Image
 source

@@ -1,1 +1,1 @@
-
+Photo des installations.

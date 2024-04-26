@@ -1,6 +1,5 @@
-# Solanux
+# Sonalux
 
-IMAGE
 
 # RÉALISATEURS
 

@@ -12,8 +12,29 @@ temporaire et intérieur
 image complete de l'oeuvre
 
 ## Description 
-Nom de l'artiste ou de la firme 
-Année de réalisation
+Canevas Cosmique à été réaliser en 2024
+Pour la réalisation de ce projet il y à plusieurs créateurs :
+- [ ] Jacob Alarie-Brousseau
+- [ ] Étienne Charron
+- [ ] Jérémy Cholette
+- [ ] Quoc Huy Do
+- [ ] Mikaël Tourangeau
+
+Canevas cosmique est constituer d'une table où pars dessus celle-ci ce trouve plusieurs statues 3d. Lorsque celles-ci intéragis avec ce qui est projecter sur la table, elles créent des météores, des trous noires et plus. Nous pouvons voir ce qui se passe sur la table, mais aussi projecter sur un mur juste devant la table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Description de l'oeuvre ou du dispositif + image et video
 Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
 Mise en espace + photo piece et croquis

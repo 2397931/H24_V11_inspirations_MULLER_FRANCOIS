@@ -32,7 +32,7 @@ Canevas cosmique est constituer d'une table où pars dessus celle-ci ce trouve p
 
 ## Mise en espace 
 
-![photo en 500x500](media/schema_canevas_cosmique.png) ![photo en 500x500](media/vue_complete_table_canevas_cosmique.)
+![photo en 500x320](media/schema_canevas_cosmique.png)  ![photo en 500x320](media/vue_complete_table_canevas_cosmique.jpeg)
 
 
 

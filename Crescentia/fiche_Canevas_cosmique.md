@@ -22,9 +22,17 @@ Pour la réalisation de ce projet il y à plusieurs créateurs :
 
 Canevas cosmique est constituer d'une table où pars dessus celle-ci ce trouve plusieurs statues 3d. Lorsque celles-ci intéragis avec ce qui est projecter sur la table, elles créent des météores, des trous noires et plus. Nous pouvons voir ce qui se passe sur la table, mais aussi projecter sur un mur juste devant la table.
 
-## Aspect
+## Éléments nécessaires à la mise en exposition
+- [ ] Haut-parleur
+- [ ] fils pour son
+- [ ] projecteur
+- [ ] Kinect
+- [ ] Cables
+- [ ] Ordinateur/laptop
 
+## Mise en espace 
 
+!photo()
 
 
 

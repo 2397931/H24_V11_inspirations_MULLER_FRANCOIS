@@ -21,11 +21,6 @@ source
 Image
 source
 
-## INSTALLATION FINALE
-
-Image
-source
-
 ## RESSENTIT
 Lors de cette exposition je crois que je vais être vraiment surprise, car je n'ai jamais vu d'exposition de cette sorte où il y a une toile qui peut détecter nos mains qui rentrent en contact avec celle-ci.
 

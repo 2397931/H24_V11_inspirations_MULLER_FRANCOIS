@@ -42,8 +42,8 @@ L'exposition était placer dans le mur de droite des que vous entrez dans le gra
 ## Composantes et techniques
 Pour cette installation les créateurs ont du connecter des fils pour le sons, pour charger leur ordinateur, etc. Ils ont aussi construit une table pour leur installation.
 
-![photo](media/materiel_sous_table_2_canevas_cosmique.JPG)  ![photo](media/materiel_sous_table_canevas_cosmique.png)
-![photo](media/vue_sous_table_materiel_canevas_cosmique.JPG)  ![photo](media/ordinateur_utiiliser_pour_intallation_canevas_cosmique.JPG)
+![photo](media/materiel_sous_table_2_canevas_cosmique.jpg)  ![photo](media/materiel_sous_table_canevas_cosmique.png)
+![photo](media/vue_sous_table_materiel_canevas_cosmique.jpg)  ![photo](media/ordinateur_utiiliser_pour_intallation_canevas_cosmique.JPG)
 
 
 ## Expérience vécue

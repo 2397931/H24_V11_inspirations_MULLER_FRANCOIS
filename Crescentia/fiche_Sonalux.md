@@ -10,8 +10,7 @@ IMAGE
 - [ ] Vincent Desjardins 
 
 ## LIEN AVEC LE THÈME CRESCENTIA
-
-Le lien entre l'exposition "Solanux" et le thème "Crescentia" est la croissance. Lorsque interagit avec, l'installation nous envoie dans un voyage astral où le plus nous interagissons avec, plus les images projetées bougent et plus le son change.
+Le lien entre l'exposition "Solanux" et le thème "Crescentia" est la croissance. Lorsque interagit avec, l'installation nous envoie dans un voyage astral où le plus nous interagissons avec, plus les images projetées bougent et plus le son changé.
 
 ## SCHÉMA DE L'INSTALLATION
 

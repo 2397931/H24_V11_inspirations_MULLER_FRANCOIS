@@ -22,10 +22,5 @@ source
 Image
 source
 
-## INSTALLATION FINALE
-
-Image
-source
-
 ## RESSENTIT
 Je crois qu'en expérimentant cette installation, je vais être vraiment surprise. C'est impressionnant que des étudiants collégiaux soient capables de développer un jeu qui détecte nos mouvements.

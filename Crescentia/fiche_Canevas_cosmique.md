@@ -39,7 +39,7 @@ Canevas cosmique est constituer d'une table où pars dessus celle-ci ce trouve p
 L'exposition était placer dans le mur de droite des que vous entrez dans le grand studio. L'exposition est exposé avec des projecteurs, un sous la table intéractif et un sur le mur de droit. Qu'est ce qui est disposé est ce qui ce passe sur la table lorsque les visiteurs intéragient avec les statues.
 
 ## Composantes et techniques
-
+Pour cette installation les créateurs ont du connecter des fils pour le sons, pour charger leur ordinateur, etc. Ils ont aussi construit une table pour leur installation.
 
 
 
@@ -49,7 +49,7 @@ L'exposition était placer dans le mur de droite des que vous entrez dans le gra
 Lors de l'exposition, le visiteur doit intéragir avec les statues situés sur la table. Le visiteur va être placer devant la table pour pouvoir intéragir avec les statues et voir ce qui ce passe sur le mur où est projecter en grand ce qu'il ce passe sur la table. Lorsque le visiteur intéragirat avec les statues, il devra essayer de voir ce qu'elles font tous, toutes seules ou ensemble. De mon côté, cette exposition ma rendu curieuse et me donnait envie de voir ce qu'il allait se passer lorsque j'intéragit avec toutes les statues.
 
 ## Plus et pas plus
-Ce qui ma plus dans cette exposition et comment elle était original et qu'il y avait plusieurs fa,cons d'intéragir avec celle-ci. Rien ne ma pas plus!
+Ce qui ma plus dans cette exposition et comment elle était original et qu'il y avait plusieurs façcons d'intéragir avec celle-ci. Rien ne ma pas plus!
 
 
 Description de l'oeuvre ou du dispositif + image et video

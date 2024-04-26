@@ -1,5 +1,5 @@
 # Sonalux
-
+![photo](media/sonalux.png)
 
 # RÉALISATEURS
 
@@ -13,20 +13,10 @@ Le lien entre l'exposition "Solanux" et le thème "Crescentia" est la croissance
 
 ## SCHÉMA DE L'INSTALLATION
 
-Image
-source
+![photo](media/schema_sonalux.png)
 
-## INSTALLATION EN COURS
-
-Image
-source
+## INSTALLATION
+![photo](media/cable_utiliser_sonalux.JPG) ![photo](media/podium_boutons_machine_sonalux.jpeg) ![photo](media/projecteur_sonalux.JPG) ![photo](media/vue_podium_de_devant_finale_sonalux.jpeg) ![photo](media/vue_podium_de_droite_debut_sonalux.JPG)
 
 ## RESSENTIT
 Lors de cette exposition je crois que je vais être attentive, car il y a de la musique relier à cette exposition ce qui est une importante partie de celle-ci.
-
-
-
-
-3.l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
-5.le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
-6.noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification

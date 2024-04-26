@@ -22,11 +22,6 @@ source
 Image
 source
 
-## INSTALLATION FINALE
-
-Image
-source
-
 ## RESSENTIT
 Lors de cette exposition je crois que je vais être attentive, car il y a de la musique relier à cette exposition ce qui est une importante partie de celle-ci.
 

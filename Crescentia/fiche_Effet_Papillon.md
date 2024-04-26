@@ -1,6 +1,6 @@
 # Effet Papillon
 
-Image
+![photo](media/effet_papillon.png)
 
 # RÉALISATEURS
 - [ ] Raphaël Dumont
@@ -19,8 +19,9 @@ Le lien entre l'exposition "Effet Papillon" et le thème "Crescentia" est la cro
 
 ## INSTALLATION EN COURS
 
-Image
-source
+![photo](media/haut_parleur_et_lumiere_effet_papillon.jpeg) ![photo](media/fils_materiel_utiliser_effet_papillon.JPG)
+![photo](media/vue_piece_complete_effet_papillon_2.JPG) ![photo](media/arbre_en_cours_effet_papillon.png)
+![photo](media/fils_et_lumiere_effet_papillon.jpeg)
 
 ## RESSENTIT
 Lors de ma participation à cette installation, je crois que je serai très attentive, car les actions que j'entreprendrai auront un impact sur le déroulement de l'expérience. Ayant peu de connaissances sur le cycle de vie d'un pommier, je suis déterminée à en apprendre davantage à travers cette expérience.

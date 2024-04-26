@@ -29,6 +29,9 @@ Canevas cosmique est constituer d'une table où pars dessus celle-ci ce trouve p
 - [ ] Kinect
 - [ ] Cables
 - [ ] Ordinateur/laptop
+- [ ] sac de sable
+
+![photo](media/materiel_sous_table_canevas_cosmique.png)  ![photo](media/sac_de_sable_tien_nappe_canevas_cosmique.jpeg)
 
 ## Mise en espace 
 
@@ -42,11 +45,11 @@ Canevas cosmique est constituer d'une table où pars dessus celle-ci ce trouve p
 
 
 
-
+## Expérience vécue
+Lors de l'exposition 
 
 
 Description de l'oeuvre ou du dispositif + image et video
-Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
 Mise en espace + photo piece et croquis
 Composantes et techniques
 Éléments nécessaires à la mise en exposition
